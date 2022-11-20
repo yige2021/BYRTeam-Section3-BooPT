@@ -22,7 +22,7 @@
 ### 三、目录结构
 
 BooPT：后端
-Boopt_frontend：前端
+BooPT_frontend/boopt：前端
 
 ### 四、后端相关
 
